@@ -29,16 +29,16 @@ theme_settings:
   flickr:
   github: "kxkb"
   google_plus:
-  instagram:
+  instagram: "kxkb"
   linkedin:  # Full URL
   pinterest:
-  reddit:
+  reddit: 
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: #"kxkb"
-  wordpress:
+  twitter: "kxkb"
+  wordpress: "kxkb"
   youtube:
 
   # Scripts
