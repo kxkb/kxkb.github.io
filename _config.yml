@@ -27,9 +27,9 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: "kxkb"
+  github: 
   google_plus:
-  instagram: "kxkb"
+  instagram: 
   linkedin:  # Full URL
   pinterest:
   reddit: 
@@ -37,8 +37,8 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "kxkb"
-  wordpress: "kxkb"
+  twitter: 
+  wordpress:
   youtube:
 
   # Scripts
