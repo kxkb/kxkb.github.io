@@ -1,8 +1,7 @@
 ---
-layout:post
+layout: post
 title: Awesome wm tips and tricks
 ---
-
 ```lua
 config_dir = ("~/.config/awesome/")
 themes_dir = (config_dir .. "/themes")
